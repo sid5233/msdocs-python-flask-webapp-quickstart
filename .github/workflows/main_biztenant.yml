@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'BIZtenant'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7BDB95E2268549F08A1D22BA5E090A2A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E17C6FCBB469463F9DD798B93C46ED02 }}
